@@ -2,8 +2,10 @@
 ### Android app
 Bignerdranch training
 
-#### Exercises have been done in separate branches
+#### Exercise in chapter 22
+- [x] Add application icons
+- [ ] Setup grid layout with app name and icon
 
 #
 
-[Download apk](../../raw/master/app/build/outputs/apk/app-debug.apk)
+[Download apk](../../raw/exercise_chapter22/app/build/outputs/apk/app-debug.apk)
