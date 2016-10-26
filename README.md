@@ -5,4 +5,5 @@ Bignerdranch training
 #### Exercises have been done in separate branches
 
 #
-[Download apk](/raw/master/rmfiles/nerdlauncher.apk)
+
+[Download apk](../../raw/master/rmfiles/nerdlauncher.apk)
