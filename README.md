@@ -1,2 +1,7 @@
-# bignerdranch_nerdlauncher
-Bignerdranch training - Android app "Nerd Launcher"
+# Nerd Launcher
+### Android app
+Bignerdranch training
+
+#### Exercises have been done in separate branches
+
+#
