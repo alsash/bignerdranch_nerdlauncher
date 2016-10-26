@@ -6,4 +6,4 @@ Bignerdranch training
 
 #
 
-[Download apk](../../raw/master/rmfiles/nerdlauncher.apk)
+[Download apk](../../raw/master/app/build/outputs/apk/app-debug.apk)
